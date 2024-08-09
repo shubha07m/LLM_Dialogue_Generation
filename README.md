@@ -1,4 +1,4 @@
-# Natural Dialogue Generation between Speakers using LLM
+# Natural Dialogue Generation between Speakers using Large Language Models
 
 **Author:** Shubhabrata  
 **Date:** August 1, 2024  
